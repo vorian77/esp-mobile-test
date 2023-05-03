@@ -4,7 +4,7 @@
 	<div class="space-y-5">
 		<h1>Let's get cracking bones!</h1>
 		<p>Start by exploring:</p>
-		<button class="btn variant-filled-primary">Test</button>
+		<button class="btn variant-filled-warning">Test</button>
 		<ul>
 			<li>
 				<code>/src/routes/+layout.svelte</code> - barebones layout, the CSS import order is critical!
